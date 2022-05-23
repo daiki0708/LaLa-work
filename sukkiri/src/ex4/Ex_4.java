@@ -5,8 +5,6 @@ public class Ex_4 {
 	public static void main(String[] args) {
 		int[] numbers = new int[2];
 		numbers[0] = new java.util.Random().nextInt(9) + 1;
-		numbers[1] = new java.util.Random().nextInt(9) + 1;
-		
 		do {
 			numbers[1] = new java.util.Random().nextInt(9) + 1;
 		} while (numbers[0] == numbers[1]); {
