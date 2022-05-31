@@ -1,4 +1,4 @@
-package old;
+package HeroOld;
 
  public class Hero {
    public String name;
