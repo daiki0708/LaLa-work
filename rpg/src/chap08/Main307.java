@@ -23,8 +23,8 @@ public class Main307 {
 		
 		// 冒険のはじまり
 		//h.slip();
-		m1.run();
-		m2.run();
+		//m1.run();
+		//m2.run();
 		h.run();
 		
 		//お化けキノコよ、この仮想世界に生まれよ!
