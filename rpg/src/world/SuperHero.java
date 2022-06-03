@@ -21,7 +21,7 @@ public class SuperHero extends Hero {
 		System.out.println("着地した");
 	}
 	public void run() {
-		System.out.println(this.name + "は撤退した");
+		System.out.println(this.getName() + "は撤退した");
 	}
 
 }
